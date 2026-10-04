@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Lezioni di Pianoforte"
+    url: /lezioni-pianoforte/
+  - title: "Servizi d'Organo"
+    url: /servizi-organo/
+  - title: "Contatti"
+    url: /contatti/
