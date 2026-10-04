@@ -13,7 +13,9 @@ bundle exec jekyll serve
 
 ## Da fare prima della pubblicazione
 
-- [ ] Sostituire le immagini placeholder in `assets/images/` (hero.jpg, piano-feature.jpg, organ-feature.jpg) con foto reali
-- [ ] Impostare `YOUR_FORM_ID` in `_pages/contact.md` con l'ID del form creato su [Formspree](https://formspree.io) (piano gratuito: 50 invii/mese)
-- [ ] Aggiungere l'email di contatto in `_config.yml` (campo `author.email`)
-- [ ] Abilitare GitHub Pages: Settings → Pages → Source → Deploy from a branch → `master` / `(root)`
+- [ ] Sostituire le immagini placeholder in `assets/images/` (hero.jpg, piano-feature.jpg, organ-feature.jpg, concert-feature.jpg) con foto reali
+- [x] Impostare l'ID del form di [Formspree](https://formspree.io) in `_pages/contact.md` (piano gratuito: 50 invii/mese)
+- [x] Aggiungere l'email di contatto in `_config.yml` (campo `author.email`)
+- [x] Abilitare GitHub Pages: Settings → Pages → Source → Deploy from a branch → `master` / `(root)`
+- [ ] Confermare l'indirizzo email su Formspree cliccando il link ricevuto al primo invio del modulo
+- [ ] Aggiornare la sezione "Prossimi concerti" in `_pages/concerts.md` con date reali
