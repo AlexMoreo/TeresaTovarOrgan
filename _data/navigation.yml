@@ -5,5 +5,7 @@ main:
     url: /lezioni-pianoforte/
   - title: "Servizi d'Organo"
     url: /servizi-organo/
+  - title: "Concerti"
+    url: /concerti/
   - title: "Contatti"
     url: /contatti/

@@ -25,6 +25,13 @@ feature_row:
     url: "/servizi-organo/"
     btn_label: "Scopri di più"
     btn_class: "btn--primary"
+  - image_path: /assets/images/concert-feature.jpg
+    alt: "Concerti"
+    title: "Concerti"
+    excerpt: "Recital di pianoforte e organo, in solo o in collaborazione con altri musicisti, per sale da concerto, chiese e associazioni culturali."
+    url: "/concerti/"
+    btn_label: "Scopri di più"
+    btn_class: "btn--primary"
 author_profile: false
 ---
 
