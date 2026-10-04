@@ -35,4 +35,4 @@ Musiche che accompagnano la celebrazione con semplicità e gioia, per un momento
 
 ## Richiedi disponibilità
 
-Per verificare la disponibilità nella data della vostra celebrazione, [contattatemi](/contatti/) con qualche settimana di anticipo.
+Per verificare la disponibilità nella data della vostra celebrazione, [contattatemi]({{ "/contatti/" | relative_url }}) con qualche settimana di anticipo.

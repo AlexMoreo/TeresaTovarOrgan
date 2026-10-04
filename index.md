@@ -43,4 +43,4 @@ Sono Teresa Tovar, pianista e organista con sede a Le Piagge, Pisa. Da anni affi
 
 Che tu stia cercando lezioni di pianoforte o un'accompagnamento musicale per una celebrazione, sarò felice di ascoltare le tue esigenze.
 
-[Contattami](/contatti/){: .btn .btn--primary .btn--large}
+[Contattami]({{ "/contatti/" | relative_url }}){: .btn .btn--primary .btn--large}

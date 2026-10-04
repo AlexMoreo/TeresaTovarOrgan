@@ -32,4 +32,4 @@ Percorsi flessibili per chi vuole imparare da zero, tornare a suonare dopo anni 
 
 ## Prenota una lezione di prova
 
-Per informazioni su orari, disponibilità e tariffe, [contattami](/contatti/) — sarò felice di risponderti.
+Per informazioni su orari, disponibilità e tariffe, [contattami]({{ "/contatti/" | relative_url }}) — sarò felice di risponderti.

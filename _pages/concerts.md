@@ -22,8 +22,8 @@ Un repertorio che spazia dalla musica barocca e classica fino a pagine più mode
 ## Prossimi concerti
 
 <!-- Aggiornare questa sezione con le date dei prossimi concerti in programma. -->
-Date e programmi in aggiornamento — per informazioni sui prossimi appuntamenti, [contattatemi](/contatti/) direttamente.
+Date e programmi in aggiornamento — per informazioni sui prossimi appuntamenti, [contattatemi]({{ "/contatti/" | relative_url }}) direttamente.
 
 ## Disponibilità per eventi
 
-Sono disponibile per esibizioni in occasione di rassegne musicali, eventi culturali e collaborazioni con altri artisti. Per proporre una collaborazione o richiedere informazioni, [scrivetemi](/contatti/).
+Sono disponibile per esibizioni in occasione di rassegne musicali, eventi culturali e collaborazioni con altri artisti. Per proporre una collaborazione o richiedere informazioni, [scrivetemi]({{ "/contatti/" | relative_url }}).
